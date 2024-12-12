@@ -1,16 +1,26 @@
-## Hi there 👋
+👋 Hi, I'm Muhammad Arif!
 
-<!--
-**BlackCoffeee/BlackCoffeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer with over 7 years of experience working at Universitas Sari Mulia. I hold a Bachelor's Degree in Informatics Engineering and specialize in fullstack development.
+🛠 Skills and Technologies
 
-Here are some ideas to get you started:
+    Languages: PHP, JavaScript
+    Frameworks: CodeIgniter, Laravel, React.js, Express.js
+    Tools: Visual Studio Code, Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Projects I've Worked On
+
+    GIS (Geographic Information System)
+    CBT (Computer-Based Testing)
+    Academic Management Systems
+    HR Systems (Kepegawaian)
+    OBS (Online Broadcasting Systems)
+
+🚀 Current Focus
+
+I'm currently enhancing my skills in JavaScript and diving deeper into modern web technologies.
+
+🎮 Hobbies
+
+In my free time, I enjoy playing competitive games.
+
+📫 Contact Me: arief.veriez@gmail.com
